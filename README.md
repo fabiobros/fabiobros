@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobros&" alt="fabiobros" /></p>
 
 
-![snake animation](https://github.com/fabiobros/fabiobros/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake animation](https://github.com/fabiobros/fabiobros/blob/output/github-contribution-grid-snake.gif) -->
